@@ -1,5 +1,5 @@
 <p align="center">
-  <img  src="images/tobiloba-adaramati-guru.com.jpg">
+  <img  src="images/tobiloba-adaramati-ok-sized.jpg">
 </p>
 Hello, my name is Tobiloba (Datagirl) and here is my portfolio. I am a Data Analytics Consultant. Below is a collection of projects of interest that I am working on.
 
