@@ -11,4 +11,4 @@ Hello, my name is Tobiloba (Datagirl) and here is my portfolio. I am a Data Anal
 
 # Contact
 ### [Email](mailto:tadaramati@gmail.com)
-### [Linkedin](https://www.https://www.linkedin.com/in/adaramati-tobiloba/)
+### [LinkedIn](https://www.https://www.linkedin.com/in/adaramati-tobiloba/)
