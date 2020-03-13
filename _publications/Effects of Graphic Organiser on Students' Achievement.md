@@ -3,7 +3,7 @@ title: "Effects of Graphic Organiser on Students' Achievement in Algebraic Word 
 collection: publications
 permalink: /publication/effects_of_graphic_organiser
 excerpt: 'We investigated the effects of graphic organiser and gender on students' academic achievement in algebraic word problem'
-date: 2015
+date: 2015-06-05
 venue: 'Journal of Education and Practice'
 paperurl: 'https://www.iiste.org/Journals/index.php/JEP/article/view/20021/20378'
 ---
